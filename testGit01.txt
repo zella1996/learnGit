@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Test no fast forward.
 Some things are going on.
 Work done.
+There's something going on.
